@@ -1,5 +1,7 @@
 # fairhotel-browser-plugin
 
+http://www.fairhotel.org/fair-hotels-program
+
 https://developer.chrome.com/extensions/getstarted
 
 ## Todo:
@@ -16,3 +18,8 @@ https://developer.chrome.com/extensions/getstarted
 I don't know how much time I'll get to spend on this. Probably not that much. Make extensive pull requests and I will merge them. :) I don't have any pre-existing expertise with chrome extensions and I am not particularly expert with javascript.
 
 I'm just following https://developer.chrome.com/extensions/getstarted more or less
+
+## Notes
+
+- This favicon is from http://www.fairhotel.org/sites/default/files/favicon_0.ico
+
