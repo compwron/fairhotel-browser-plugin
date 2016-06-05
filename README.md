@@ -1,5 +1,7 @@
 # fairhotel-browser-plugin
 
+This thing is unofficial. No one involved in this codebase works for either fairhotel or Concur.
+
 http://www.fairhotel.org/fair-hotels-program
 
 https://developer.chrome.com/extensions/getstarted
