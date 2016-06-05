@@ -1,0 +1,1 @@
+# fairhotel-browser-plugin
